@@ -1,0 +1,9 @@
+friend_links:
+  - name: SYF's Design
+    desc: SYF's Design
+    link: https://sfangyu.github.io/
+
+build_tools:
+  - name: Hexo
+    desc: Blog Framework
+    link: https://hexo.io/
