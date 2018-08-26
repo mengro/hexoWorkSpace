@@ -117,7 +117,7 @@ hfc_css:
     - '*.min.css'
 
 hfc_js:
-  enable: true
+  enable: false
   mangle: true
   exclude: 
     - '*.min.js'
