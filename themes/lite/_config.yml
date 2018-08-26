@@ -4,14 +4,14 @@
 
 avatar:
   enable: true
-  url: /static/images/kamuyi.jpg
+  url: /static/images/mengro-avator.jpeg
 
 background:
   background_color: '#ffffff'
 
   # Custom Background Picture
   enable_picture: true
-  url: /static/images/miku.jpg
+  url: /static/images/fulu.jpeg
   css_size: cover
   css_position: 50%
 
